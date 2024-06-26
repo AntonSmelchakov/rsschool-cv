@@ -1,6 +1,6 @@
 # Anton Smelchakov Aleksandrovich
 
-**Aspiring code monkey**
+**Junior frontend developer**
 
 ## Contact information
 
@@ -11,16 +11,19 @@
 
 ## About myself
 
-Devilishly charming, astonishingly hardworking and sadly not employed. Which is unjust and cruel travesty of the world but it's about to change, right?
-Worked a variety of jobs: engineer(food equipment company), video editor(tv), livefeed editor(tv).
-Currently working as a theater actor, but also in search of a second career.
+Currently studying different aspects of frontend development and looking for an entry level job in that field.
+
+Previous job experience:
+
+- engineer(food equipment company),
+- video editor(tv),
+- broadcast editor(tv).
 
 ## Skills
 
 - HTML(basic)
 - CSS(basic)
 - js(basic)
-- Acting(proficient)
 
 ## Code example
 
