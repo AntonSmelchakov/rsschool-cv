@@ -4,10 +4,10 @@
 
 ## Contact information
 
-- telegram: @doyousmelit
+- telegram: [@youcandance](https://t.me/youcandace)
 - e-mail: myalysum@gmail.com
-- discord: moonwayer
-- github: antonsmelchakov
+- discord: [moonwayer](https://discordapp.com/users/340927018533388290)
+- github: [AntonSmelchakov](https://github.com/AntonSmelchakov/)
 
 ## About myself
 
