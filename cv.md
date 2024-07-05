@@ -11,7 +11,7 @@
 
 ## About myself
 
-Currently studying different aspects of frontend development and looking for an entry or intern level job in that field.
+Currently studying different aspects of frontend development with aspiration to start a new career. Looking for an entry or intern level job in that field.
 
 Previous job experience:
 
