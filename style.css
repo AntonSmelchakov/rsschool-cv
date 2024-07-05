@@ -61,7 +61,7 @@ header {
     border-radius: 10px;
 }
 
-code pre {
+.code-example {
     padding: 15px;
     background-color: white;
     border-radius: 25px;
